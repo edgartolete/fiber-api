@@ -3,11 +3,11 @@
 ### Development Run
 
 ```sh
-go run cmd/app/main.go
+make run
 ```
 
 ### Build
 
 ```sh
-go build cmd/app/main.go
+make build
 ```
