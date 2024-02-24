@@ -3,7 +3,7 @@ GORUN := $(GOCMD) run
 GOBUILD := $(GOCMD) build
 
 run:
-	$(GORUN) cmd/app/main.go
+	$(GORUN) cmd/api/main.go
 
 build:
-	$(GOBUILD) cmd/app/main.go
+	$(GOBUILD) cmd/api/main.go
