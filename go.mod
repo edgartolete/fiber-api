@@ -1,5 +1,6 @@
 module github.com/edgartolete/fiber-api-go-starter-template
 
+
 go 1.22.0
 
 require (
